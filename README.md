@@ -9,16 +9,9 @@ Please follow the below instructions to run this branch in your machine:
 
 2. Clone this repository -
    ```sh
-   git clone https://github.com/Learn-with-Sumit/rnext.git
+   git clone https://github.com/jubayer1418/Tit-tak-too.git
    ```
-3. Go to the cloned project directory
-   ```sh
-   cd rnext
-   ```
-4. Checkout/switch to branch 1.13
-   ```sh
-   git checkout 1.13
-   ```
+
 5. Just run this command to install node dependencies
    ```sh
    npm i
